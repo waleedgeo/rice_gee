@@ -14,7 +14,7 @@ See my other work at my [Portfolio Website](https://waleedgeo.github.io/)
 
  - ## [S2 Rice Classification Raster Geotiff (10-20m)](/data/rasters/S2_Final.tif)
 
- - ## [Landsat-8 Rice Classification Raster Geotiff (30m)](/data/rasters/MODIS_Final.tif)
+ - ## [Landsat-8 Rice Classification Raster Geotiff (30m)](/data/rasters/L8_Final.tif)
  - ## [MODIS Rice Classification Raster Geotiff (250m)](/data/rasters/MODIS_Final.tif)
 
 
